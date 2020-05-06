@@ -1,0 +1,10 @@
+username1 jaynwauche
+password1 juniornwauche1234
+Email1 juniornwauche@gmail.com
+FirstName1 Junior 
+Lastname1 Nwauche
+username2 valnwauche
+password2 valnwauche1234
+Email2 valentinenwauche@gmail.com
+FirstName2 Valentine
+Lastname2 Nwauche
