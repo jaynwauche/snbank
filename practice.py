@@ -31,7 +31,7 @@ password: {user_login_password}''')
                 continue
             if customer_action == 1:
                 account_name = input('Account Name:\n')
-                opening_balance = eval(input('Opening Balance:\n'))
+                opening_balance = eval(input('Opening Balance(NGN):\n'))
                 account_type = input('Account Type(savings, current, Fixed Deposit):\n')
                 account_email = input('E_mail address:\n')
                 account_number ='0'
