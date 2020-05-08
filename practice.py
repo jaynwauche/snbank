@@ -13,7 +13,8 @@ while True:
             for line in file:
                 (key, val) = line.split()
                 d[str(key)] =  val
-        if (user_login_name == d['username1'] and user_login_password == d['password1']) or (user_login_name == d['username2'] and user_login_password == d['password2']):
+        if (user_login_name == d['username1'] and user_login_password == d['password1']) or\
+           (user_login_name == d['username2'] and user_login_password == d['password2']):
              print('Login successful')
         else:
             print('Login not successful, try again')

@@ -1,5 +1,4 @@
-Features of The snbank
- code
+Features of The snbank code
 The features of the snbank code are outlined as follows:
 1. Already registered staffs will be able to login into snbank system.
 2. The staff after signing in will be able to create an snbank account.
